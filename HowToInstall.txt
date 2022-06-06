@@ -1,0 +1,4 @@
+1. Double click on "InstallFolder"
+2. Right click on "Add-AppDevPackage.ps1"
+3. Click on option "Run with PowerShell"
+4. Follow the instruction

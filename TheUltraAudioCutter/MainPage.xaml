@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="TheUltraAudioCutter.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TheUltraAudioCutter"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+    MinHeight="1000" MinWidth="1200"  SizeChanged="Page_SizeChanged" >
+    <Grid Background="#FF8C7D54" >
+
+        <StackPanel HorizontalAlignment="Center" Margin="0,0,0,902">
+            <Button Name="AudioCutterButton" Content="Audio Cutter" Foreground="#FFABFB00" BorderBrush="Black"  Click="AudioCutterButton_Click" Width="1215"/>
+            <Button x:Name="AudioInfoButton" Content="Audio Info"  Foreground="#FF89FB00" BorderBrush="Black" Width="1215" Click="AudioInfoButton_Click"/>
+            <Button Name="AudioMergerButton" Content="Audio Merger" Width="1215" Foreground="#FF89FB00" BorderBrush="Black"  Click="AudioMergerButton_Click"/>
+        </StackPanel>
+
+        <Frame   Name="AudioFrame"  Width="1492" Margin="-2,98,10,0"/>
+    </Grid>
+</Page>

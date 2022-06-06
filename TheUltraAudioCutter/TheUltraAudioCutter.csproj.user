@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DeviceId>30f105c9-681e-420b-a277-7c086ead8a4e</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+  <PropertyGroup>
+    <BadgeLogoSource>C:\Users\User\Pictures\CutterLogo.png</BadgeLogoSource>
+    <SplashScreenSource>C:\Users\User\Pictures\CutterLogo.png</SplashScreenSource>
+    <AppIconSource>C:\Users\User\Pictures\CutterLogo.png</AppIconSource>
+    <SmallTileSource>C:\Users\User\Pictures\CutterLogo.png</SmallTileSource>
+    <MediumTileSource>C:\Users\User\Pictures\CutterLogo.png</MediumTileSource>
+    <WideTileSource>C:\Users\User\Pictures\CutterLogo.png</WideTileSource>
+    <LargeTileSource>C:\Users\User\Pictures\CutterLogo.png</LargeTileSource>
+    <PackageLogoSource>C:\Users\User\Pictures\CutterLogo.png</PackageLogoSource>
+    <Source>C:\Users\User\Pictures\CutterLogo.png</Source>
+    <UapAppxPackageBuildMode>SideloadOnly</UapAppxPackageBuildMode>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x64</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>True</PackageOptionalProjectsInIdeBuilds>
+  </PropertyGroup>
+</Project>
