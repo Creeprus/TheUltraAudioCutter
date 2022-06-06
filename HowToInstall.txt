@@ -1,4 +1,4 @@
-1. Double click on "InstallFolder"
-2. Right click on "Add-AppDevPackage.ps1"
-3. Click on option "Run with PowerShell"
+1. Go to TheUltraAudioCutter-main\TheUltraAudioCutter\AppPackages\TheUltraAudioCutter_1.0.3.0_Test
+2. Launch TheUltraAudioCutter_1.0.3.0_x64.cer file to install sertificate (while installing use Local Machine option in first prompt, then choose Trusted People as certificate folder).
+3. Launch TheUltraAudioCutter_1.0.3.0_x64.msixbundle
 4. Follow the instruction
