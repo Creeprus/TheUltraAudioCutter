@@ -4,6 +4,7 @@ An UWP application which provides cutting, merging, combining audio files (wav, 
 
 
 
-To install app, double click on "InstallFolder", then use "Run with PowerShell" on "Add-AppDevPackage.ps1" file.
+To install app, go to the TheUltraAudioCutter-main\TheUltraAudioCutter\AppPackages\TheUltraAudioCutter_1.0.3.0_Test folder, then use "Run with PowerShell" on "Add-AppDevPackage.ps1" file or try launching TheUltraAudioCutter_1.0.3.0_x64.cer file to install sertificate (while installing use Local Machine option in first prompt, then choose Trusted People as certificate folder). Then launch TheUltraAudioCutter_1.0.3.0_x64.msixbundle and install app normally
+
 MusicTest folder contains sample audio files.
 This app works only on Windows 10 and above.
