@@ -4,7 +4,6 @@ An UWP application which provides cutting, merging, combining audio files (wav, 
 
 
 
-To install app, open folder and launch "Certificate" to install certificate (choose "Local Machine"->"Trusted People" when choosing certificate directory).
-Then launch "InstallApp" and install app normally.
+To install app, double click on "InstallFolder", then use "Run with PowerShell" on "Add-AppDevPackage.ps1" file.
 MusicTest folder contains sample audio files.
 This app works only on Windows 10 and above.
