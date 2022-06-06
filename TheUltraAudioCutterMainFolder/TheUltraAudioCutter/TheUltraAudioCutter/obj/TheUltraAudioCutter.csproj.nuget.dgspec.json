@@ -1,25 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\TheUltraAudioCutter\\TheUltraAudioCutter\\TheUltraAudioCutter.csproj": {}
+    "C:\\Users\\levak\\Desktop\\fullultraaudiocutter-main\\TheUltraAudioCutter\\TheUltraAudioCutter\\TheUltraAudioCutter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\TheUltraAudioCutter\\TheUltraAudioCutter\\TheUltraAudioCutter.csproj": {
+    "C:\\Users\\levak\\Desktop\\fullultraaudiocutter-main\\TheUltraAudioCutter\\TheUltraAudioCutter\\TheUltraAudioCutter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\TheUltraAudioCutter\\TheUltraAudioCutter\\TheUltraAudioCutter.csproj",
+        "projectUniqueName": "C:\\Users\\levak\\Desktop\\fullultraaudiocutter-main\\TheUltraAudioCutter\\TheUltraAudioCutter\\TheUltraAudioCutter.csproj",
         "projectName": "TheUltraAudioCutter",
-        "projectPath": "C:\\Users\\User\\source\\repos\\TheUltraAudioCutter\\TheUltraAudioCutter\\TheUltraAudioCutter.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\TheUltraAudioCutter\\TheUltraAudioCutter\\obj\\",
+        "projectPath": "C:\\Users\\levak\\Desktop\\fullultraaudiocutter-main\\TheUltraAudioCutter\\TheUltraAudioCutter\\TheUltraAudioCutter.csproj",
+        "packagesPath": "C:\\Users\\levak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\levak\\Desktop\\fullultraaudiocutter-main\\TheUltraAudioCutter\\TheUltraAudioCutter\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\levak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "uap10.0.17763"

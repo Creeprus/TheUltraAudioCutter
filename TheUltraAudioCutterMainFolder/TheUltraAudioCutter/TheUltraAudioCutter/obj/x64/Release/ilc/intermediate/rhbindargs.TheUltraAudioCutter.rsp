@@ -3,14 +3,14 @@
 "/runtime:mrt100_app"
 /eh:clr
 /pdb
-"/nativeLink:C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.2.8-rel-28605-00\tools\x64\ilc\lib\Native\vmath.lib"
+"/nativeLink:C:\Users\levak\.nuget\packages\runtime.win10-x64.microsoft.net.native.compiler\2.2.8-rel-28605-00\tools\x64\ilc\lib\Native\vmath.lib"
 /customImports
 /methodBodyFolding
-"C:\Users\User\source\repos\TheUltraAudioCutter\TheUltraAudioCutter\obj\x64\Release\ilc\intermediate\MDIL\TheUltraAudioCutter.mdilexe"
-"/i:C:\Users\User\source\repos\TheUltraAudioCutter\TheUltraAudioCutter\obj\x64\Release\ilc\intermediate\MDIL"
-"/out:C:\Users\User\source\repos\TheUltraAudioCutter\TheUltraAudioCutter\obj\x64\Release\ilc\intermediate\Native\TheUltraAudioCutter.exe"
-"/pdbAltPath:C:\Users\User\source\repos\TheUltraAudioCutter\TheUltraAudioCutter\bin\x64\Release\ilc"
-"/res:C:\Users\User\source\repos\TheUltraAudioCutter\TheUltraAudioCutter\obj\x64\Release\ilc\intermediate\Native.res"
-"/i:C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.7-rel-28605-00\tools\SharedLibrary\ret\MDIL"
+"C:\Users\levak\Desktop\fullultraaudiocutter-main\TheUltraAudioCutter\TheUltraAudioCutter\obj\x64\Release\ilc\intermediate\MDIL\TheUltraAudioCutter.mdilexe"
+"/i:C:\Users\levak\Desktop\fullultraaudiocutter-main\TheUltraAudioCutter\TheUltraAudioCutter\obj\x64\Release\ilc\intermediate\MDIL"
+"/out:C:\Users\levak\Desktop\fullultraaudiocutter-main\TheUltraAudioCutter\TheUltraAudioCutter\obj\x64\Release\ilc\intermediate\Native\TheUltraAudioCutter.exe"
+"/pdbAltPath:C:\Users\levak\Desktop\fullultraaudiocutter-main\TheUltraAudioCutter\TheUltraAudioCutter\bin\x64\Release\ilc"
+"/res:C:\Users\levak\Desktop\fullultraaudiocutter-main\TheUltraAudioCutter\TheUltraAudioCutter\obj\x64\Release\ilc\intermediate\Native.res"
+"/i:C:\Users\levak\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.7-rel-28605-00\tools\SharedLibrary\ret\MDIL"
 /shimexe
 "/classlib:SharedLibrary"

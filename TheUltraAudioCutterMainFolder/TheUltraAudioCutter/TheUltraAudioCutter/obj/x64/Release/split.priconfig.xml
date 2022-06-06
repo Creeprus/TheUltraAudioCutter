@@ -6,7 +6,7 @@
     <autoResourcePackage qualifier="DXFeatureLevel" />
     <omitSchemaFromResourcePacks />
   </packaging>
-  <index root="\" startIndexAt="C:\Users\User\source\repos\TheUltraAudioCutter\TheUltraAudioCutter\bin\x64\Release\ilc\resources.pri">
+  <index root="\" startIndexAt="C:\Users\levak\Desktop\fullultraaudiocutter-main\TheUltraAudioCutter\TheUltraAudioCutter\bin\x64\Release\ilc\resources.pri">
     <default>
       <qualifier name="Language" value="ru-RU" />
       <qualifier name="Contrast" value="standard" />
